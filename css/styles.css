@@ -17,9 +17,13 @@ main {
 
 .profile-pic {
     border-radius: 50%;
-    border: 1px;
     margin-left: 2em;
     max-width: 100px;
+    float: left;
+}
+
+.profile-logo {
+    max-width: 120px;
     float: left;
 }
 
@@ -34,9 +38,6 @@ main {
 	clear: left;
 }
 
-.main-picture {
-
-}
 
 .main-portfolio {
     display: flex;
