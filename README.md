@@ -7,7 +7,7 @@ This is the second project of [Udacity](https://www.udacity.com): [Full Stack We
 Transform a design mockup to a real webpage, and then customize elements to personalize the page.
 Here is the [link](https://alankashiwa.github.io/portfolio-site-project/) of the page.
 
-# Requirement
+# Requirements
 1. The page must be responsive and displays on different devices.
 2. HTML5 semantic elements should be used.
 3. Grid-based layout.
